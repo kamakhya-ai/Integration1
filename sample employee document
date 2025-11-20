@@ -1,0 +1,33 @@
+{
+  "employees": [
+    {
+      "id": 101,
+      "name": "Alice Johnson",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "email": "alice.johnson@example.com",
+      "isActive": true
+    },
+    {
+      "id": 102,
+      "name": "Rahul Sharma",
+      "department": "QA",
+      "role": "Automation Engineer",
+      "email": "rahul.sharma@example.com",
+      "isActive": false
+    },
+    {
+      "id": 103,
+      "name": "Emily Carter",
+      "department": "Product",
+      "role": "Product Manager",
+      "email": "emily.carter@example.com",
+      "isActive": true
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "generatedOn": "2025-11-20",
+    "source": "Sample JSON Generator"
+  }
+}
