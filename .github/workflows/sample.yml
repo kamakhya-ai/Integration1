@@ -2,7 +2,7 @@
 
 name: 'On Changes to Github-actions'
 
-# Controls when the workflow will run
+# Controls when the workflow will/should run
 on: 
   push:
     branches:
